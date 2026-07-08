@@ -24,8 +24,5 @@ Just open `index.html` in a browser. No build step needed.
 - Only two external CSS/JS CDNs (Bootstrap + AOS).
 
 
-## 📄 License
-MIT (add a `LICENSE` file if you want it open source).
 
----
 Built with clean HTML/CSS and care. Feel free to adapt.
